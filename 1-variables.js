@@ -1,0 +1,1 @@
+//node is used to runtime environment used to run javascript outside the browser
